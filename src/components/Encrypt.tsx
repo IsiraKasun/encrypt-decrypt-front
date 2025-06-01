@@ -12,7 +12,7 @@ import axios from "axios";
 import { useState } from "react";
 
 const Encrypt = () => {
-  const [response, setResponse] = useState(null);
+  // const [response, setResponse] = useState(null);
 
   const handleOnEncrypt = () => {
     try {
